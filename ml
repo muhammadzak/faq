@@ -38,5 +38,42 @@ A Type 2 error happens if we fail to reject the null when it is not true. This i
 
 
 
+What is an auto-encoder? Why do we "auto-encode"? Hint: it's really a misnomer.
+What is a Boltzmann Machine? Why a Boltzmann Machine?
+Why do we use sigmoid for an output function? Why tanh? Why not cosine? Why any function in particular?
+Why are CNNs used primarily in imaging and not so much other tasks?
+Explain backpropagation. Seriously. To the target audience described above.
+Is it OK to connect from a Layer 4 output back to a Layer 2 input?
+A data-scientist person recently put up a YouTube video explaining that the essential difference between a Neural Network and a Deep Learning network is that the former is trained from output back to input, while the latter is trained from input toward output. Do you agree? Explain.
+
+
+Can they derive the back-propagation and weights update?
+Extend the above question to non-trivial layers such as convolutional layers, pooling layers, etc.
+How to implement dropout
+Their intuition when and why some tricks such as max pooling, ReLU, maxout, etc. work. There are no right answers but it helps to understand their thoughts and research experience.
+Can they abstract the forward, backward, update operations as matrix operations, to leverage BLAS and GPU?
+
+Interview Questions
+1. Expression Tree given as input. Evaluate the expression.
+2. Counting the number of ways to climb a ladder.
+3. A problem on Template Matching - Computer Vision.
+4. Few Machine Learning Concepts - explaining algorithms.
+5. Many Deep Learning Concepts - explaining the details on how training is done.
+6. Coin change problem.
+7. Resume based questions and was ask to code an algorithm implemented in one of my projects.  
+
+
+Write loss function step by step. And give forward and backward computation.
+
+
+https://github.com/tnaduc/Collaborative_filtering/blob/master/Collaborative%20filter%20for%20movie%20recommendation.ipynb
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+http://inverseprobability.com/2016/07/26/rework-digital
+
+https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions
+
+https://www.cpuheater.com/deep-learning/deep-learning-interview-questions-and-answers/
+
 
 
