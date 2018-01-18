@@ -84,6 +84,13 @@ https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-predict
 
 https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
 
+http://inverseprobability.com/2016/07/26/rework-digital
+
+https://www.quora.com/What-are-the-toughest-neural-networks-and-deep-learning-interview-questions
+
+https://www.cpuheater.com/deep-learning/deep-learning-interview-questions-and-answers/
+
+
 
 https://becominghuman.ai/creating-restful-api-to-tensorflow-models-c5c57b692c10
 
