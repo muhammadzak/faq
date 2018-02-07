@@ -1,9 +1,9 @@
 									                         Predicted condition
 
-					True positive(TP) 				          False negative(FN)((Type II error))				
+			True positive(TP) 				       False negative(FN)((Type II error))				
 True condition
 
-				         False positive(FP)(Type I error)    			True negative(TP)
+			False positive(FP)(Type I error)    			True negative(TP)
 
 Recall or sensitivity:
 
